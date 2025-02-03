@@ -1,4 +1,4 @@
-My name is Barna Zoltan Burján. Currently studying Finance and Accounting📚 (accountig major) at BBU and attnending to CS courses. 
+My name is Barna Zoltán Burján. Currently studying Finance and Accounting📚 (accountig major) at BBU and attnending to CS courses. 
 I am extremely familiar with these areas: 
 
 Accouting:
