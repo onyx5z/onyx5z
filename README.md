@@ -13,6 +13,8 @@ CS:
 - ERP development
 - Specialised ERP modules development
 
+For reference work you can check out my projects it's mainly software development with a side of accounting.
+
 
 This concise introduction is made for partners or business interested people who want to work with me,
 
