@@ -8,6 +8,4 @@ I enjoy exploring tools, patterns, and ideas that push productivity forward, and
 Current projects:
 - 9Ledger
 - MAFI
-- Two companies around these services
 
-More: https://z-burjan-personal.vercel.app/
